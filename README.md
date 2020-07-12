@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Daniel Sánchez - @daessar 👋
+## Hello friend 👋
 <!--
 **daessar/daessar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a maker and fan about open source, I like create new things than can help and share with the community.
+- 👨‍🎓 I'm currently Mechatronics Engineer and Software Developer student
+- 🌱 I'm currently learning about programming (c# and javascript), IA and CAD design.
+
+### Contact
+- [Website](https://daessar.com/)
+- [Twitter](https://twitter.com/daessaar)
+- [LinkedIn](https://www.linkedin.com/in/danielsanchezdev/)
